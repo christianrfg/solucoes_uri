@@ -53,7 +53,7 @@ A seguir é mostrado a saída quando executamos os testes para o problema `1310_
 
 * **Christian Gomes** - *Criador* - [christianrfg](https://github.com/christianrfg)
 
-Olhe também a lista de [contribuidores](https://github.com/solucoes_uri/contributors) que participarem desse projeto.
+Olhe também a lista de [contribuidores](https://github.com/christianrfg/solucoes_uri/contributors) que participarem desse projeto.
 
 ## Licença
 
